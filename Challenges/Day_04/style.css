@@ -5,7 +5,7 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color:whitesmoke;
+  background-color:#FFDDAE;
 }
 
 input[type="checkbox"]{
@@ -25,7 +25,7 @@ input[type="checkbox"]{
 }
 
 input[type="checkbox"]:checked ~ .check{
-  background: whitesmoke;
+  background: #FFDDAE;
   box-shadow: 0 0 0 1200px #020B29;
 }
 
